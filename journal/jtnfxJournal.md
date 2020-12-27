@@ -1,8 +1,5 @@
 # Jingsong Tan Journal
 
-## Link
-- Home Page: https://www.jingsongtan.com:8080
-
 ## What Have I learned
 For this exploration, I chose to explore mongo DB and how to intergrate the database with node.js using express and mongoose.  Thus it will further my understanding of MEAN stack.
 
